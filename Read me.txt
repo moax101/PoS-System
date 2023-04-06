@@ -1,0 +1,2 @@
+You can create your username and password in the user table
+
